@@ -1,0 +1,3 @@
+filter.badwords: "porn,fuck,shit,ass"
+prefix: "&8[&4BadWordFilter&8] &7"
+blocked: "&cYour message was blocked by BWF"

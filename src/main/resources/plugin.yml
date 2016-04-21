@@ -1,0 +1,5 @@
+name: BadWordFilter
+author: Zeryther
+version: 1.0.2
+website: http://www.zeryther.com
+main: com.zeryther.badwordfilter.BWFPlugin
