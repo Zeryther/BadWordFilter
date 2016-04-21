@@ -13,7 +13,7 @@ public class BWFPlugin extends JavaPlugin {
 	public static final String PERMISSION_SEE_BADWORDED_MESSAGES = "badwordfilter.seewords";
 	public static final String PERMISSION_EXEMPT = "badwordfilter.exempt";
 	
-	public BWFPlugin() {
+	public void onEnable() {
 		instance = this;
 		
 		saveDefaultConfig();
